@@ -1,13 +1,9 @@
 Workshops
 ---------
 
-After each workshop has been recorded, it will be uploaded to the
-sharedrive with the relevant name and link listed here.
-
-`Tutorials <https://github.com/GuckLab/Python-Workshops/blob/main/tutorials>`_
-and `resources <https://github.com/GuckLab/Python-Workshops/blob/main/resources>`_
-that cover similar topics will also be listed.
-All tutorials can be found in the `tutorials folder <https://github.com/GuckLab/Python-Workshops/blob/main/tutorials>`_. There you will also find Youtube videos covering the same content.
+See the
+`Resources <https://github.com/GuckLab/Python-Workshops/blob/main/resources>`_
+section for helpful tutorials, blogs and documentation on SciViz topics.
 
 
 How to open the Workshop notebooks
@@ -18,8 +14,7 @@ This will allow you to run the Jupyter Notebook workshops in the browser
 without needing any downloads.
 
 .. image:: https://mybinder.org/badge_logo.svg
- :target: https://mybinder.org/v2/gh/GuckLab/Python-Workshops/HEAD
-
+ :target: https://mybinder.org/v2/gh/GuckLab/SciViz/HEAD
 
 Alternatively, you can download all notebooks as a ZIP file by
-`clicking here <https://github.com/GuckLab/Python-Workshops/archive/refs/heads/main.zip>`_.
+`clicking here <https://github.com/GuckLab/SciViz/archive/refs/heads/main.zip>`_.
