@@ -2,7 +2,7 @@ Workshops
 ---------
 
 See the
-`Resources <https://github.com/GuckLab/Python-Workshops/blob/main/resources>`_
+`Resources <https://github.com/GuckLab/SciViz/blob/main/resources>`_
 section for helpful tutorials, blogs and documentation on SciViz topics.
 
 
