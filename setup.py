@@ -9,6 +9,7 @@ setup(
     packages=find_packages(),
     install_requires=["numpy",
                       "matplotlib",
-                      "jupyter"
+                      "jupyter",
+                      "PyQt5"
                       ]
 )
