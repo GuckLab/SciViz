@@ -20,3 +20,4 @@ Plotting/Displaying data
 ########################
 
 - `Matplotlib beginner series <https://www.youtube.com/watch?v=UO98lJQ3QGI&list=PL-osiE80TeTvipOqomVEeZ1HRrcEvtZB_>`_
+- `Anatomy of a plot with Matplotlib <https://matplotlib.org/stable/gallery/showcase/anatomy.html>`_

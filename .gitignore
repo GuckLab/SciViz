@@ -130,3 +130,10 @@ dmypy.json
 
 # pycharm project
 .idea/
+
+# image files
+*.png
+*.pdf
+*.svg
+*.tif
+*.tiff
