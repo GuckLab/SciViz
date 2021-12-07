@@ -10,7 +10,8 @@ setup(
     install_requires=["numpy",
                       "matplotlib",
                       "jupyter",
-                      "PyQt5",
                       "ipython",
+                      "pandas",
+                      "seaborn"
                       ]
 )
