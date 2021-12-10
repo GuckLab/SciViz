@@ -1,0 +1,27 @@
+# dark style for presentation with dark backgrounds
+
+# line colors
+axes.prop_cycle:    cycler('color', ['29B0E4', '0E7869'])
+
+# inverse all the colors
+axes.edgecolor:     white
+axes.facecolor:     black
+axes.labelcolor:    white
+
+figure.edgecolor:   black
+figure.facecolor:   black
+
+lines.color:        white
+
+savefig.edgecolor:  black
+savefig.facecolor:  black
+
+text.color:         white
+xtick.color:        white
+ytick.color:        white
+
+# adding a grid
+axes.grid:          True
+grid.color:         white
+grid.linewidth:     2
+grid.alpha:         0.1

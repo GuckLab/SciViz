@@ -1,0 +1,31 @@
+# example style sheet following to some extend the CD of the MPZPM
+
+# colors
+axes.prop_cycle:    cycler('color', ['043863', '29B0E4', '0E7869'])
+
+# fonts
+axes.titlesize :        24
+axes.labelsize :        18
+legend.fontsize:        16
+
+# ticks label size
+xtick.labelsize :       16
+ytick.labelsize :       16
+
+# lines
+lines.linewidth :       3
+lines.markersize :      10
+
+# axis and spines
+xtick.major.width:      2
+ytick.major.width:      2
+
+axes.linewidth:         2
+
+axes.spines.top :       False
+axes.spines.right :     False
+axes.spines.bottom :    True
+axes.spines.left :      True
+
+# storing
+savefig.dpi :           300
